@@ -1,0 +1,78 @@
+body {
+    background-color: yellow;
+    margin: 0;
+}
+
+
+h1 {
+    color: darkgreen;
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    
+}
+
+div {
+    text-align: center;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: green;
+    align-items: center;
+}
+
+span {
+    font-size: 25px;
+}
+
+nav {
+    text-align: center;
+    padding: 20px;
+}
+
+nav a {
+    color: white;
+    padding: 15px;
+    text-decoration: none;
+}
+
+p a {
+    color: black;
+}
+
+p {
+    margin: 20px;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.tuote {
+    background-color: lightgreen;
+    border: 5px solid darkgreen;
+}
+
+.tuote img {
+    width: 250px;
+    height: 200px;
+}
+
+.tuotteet {
+    display: flex;
+    min-height: calc(100vh - 140px);
+}
+
+.contacts {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 90px;
+}
+
+.contacts p {
+    text-align: left;
+    margin-top: 110px;
+}
