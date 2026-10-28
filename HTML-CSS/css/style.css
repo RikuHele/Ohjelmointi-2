@@ -29,8 +29,10 @@ header {
     padding-left: 20px;
 }
 
-span {
+.logo {
     font-size: 25px;
+    color: white;
+    text-decoration: none;
 }
 
 nav {
@@ -66,7 +68,6 @@ p {
 
 .tuotteet {
     display: flex;
-    min-height: calc(100vh - 140px);
 }
 
 .contacts {
