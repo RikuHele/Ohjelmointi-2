@@ -29,10 +29,9 @@ header {
     padding-left: 20px;
 }
 
-.logo {
+header span {
     font-size: 25px;
     color: white;
-    text-decoration: none;
 }
 
 nav {
