@@ -3,6 +3,7 @@
 ### HTML-CSS Tehtävä
 
 Verkkosivu: https://rikuhele.github.io/Ohjelmointi-2/HTML-CSS
+
 Screenshots: https://rikuhele.github.io/Ohjelmointi-2/HTML-CSS/screenshots.html
 
 ### JS-moduulit 1 ja 2
