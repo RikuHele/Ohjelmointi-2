@@ -17,8 +17,9 @@ Tehdyt tehtävät:
 - Tehtävä (3): 3 p
 - Tehtävä (4): 3 p
 - Tehtävä (5): 3 p
+- Tehtävä (6): 3 p
 
-**Yhteensä 12 p**
+**Yhteensä 15 p**
 
 ### JS-moduuli 3
 
