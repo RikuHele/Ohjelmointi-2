@@ -8,7 +8,7 @@ Screenshots: https://rikuhele.github.io/Ohjelmointi-2/HTML-CSS/screenshots.html
 
 ### JS-moduulit 1 ja 2
 
-Linkki JS-moduulin 1-2 kansiooni github.io palvelussa (ei toimi ainakaan vielä users.metropolia sivu minulla): (linkki)
+Linkki JS-moduulin 1-2 kansiooni githubissa: https://github.com/RikuHele/Ohjelmointi-2/tree/main/js-1-2
 
 Tehdyt tehtävät:
 
@@ -23,11 +23,20 @@ Tehdyt tehtävät:
 
 ### JS-moduuli 3
 
-[Linkki JS-moduulin 3 kansiooni github.io palvelussa] (linkki)
+Linkki JS-moduulin 3 kansiooni githubissa: 
 
 Tehdyt tehtävät:
 
-**Yhteensä - p**
+- Tehtävä (1): 2p
+- Tehtävä (2): 2p
+- Tehtävä (3): 2p
+- Tehtävä (4): 2p
+- Tehtävä (5): 2p
+- Tehtävä (6): 2p
+- Tehtävä (7): 2p
+- Tehtävä (8): 2p
+
+**Yhteensä 16 p**
 
 ### JS-moduuli 4
 
