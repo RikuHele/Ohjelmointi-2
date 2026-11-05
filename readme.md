@@ -23,7 +23,7 @@ Tehdyt tehtävät:
 
 ### JS-moduuli 3
 
-Linkki JS-moduulin 3 kansiooni githubissa: 
+Linkki JS-moduulin 3 kansiooni githubissa: https://github.com/RikuHele/Ohjelmointi-2/tree/main/js-3
 
 Tehdyt tehtävät:
 
