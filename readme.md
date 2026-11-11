@@ -40,11 +40,20 @@ Tehdyt tehtävät:
 
 ### JS-moduuli 4
 
-[Linkki JS-moduulin 4 kansiooni github.io palvelussa] (linkki)
+Linkki JS-moduulin 4 kansiooni githubissa: https://github.com/RikuHele/Ohjelmointi-2/tree/main/js-3
 
 Tehdyt tehtävät:
 
-**Yhteensä - p**
+- Tehtävä (1): 2p
+- Tehtävä (2): 2p
+- Tehtävä (3): 2p
+- Tehtävä (4): 2p
+- Tehtävä (5): 5p
+- Tehtävä (6): 1p
+- Tehtävä (7): 2p
+- Tehtävä (8): 4p
+
+**Yhteensä 20 p**
 
 ### Python Flask -palvelin
 

@@ -1,0 +1,15 @@
+const li = document.createElement("li")
+const t = document.createTextNode("First item")
+li.appendChild(t)
+document.querySelector("#target").appendChild(li)
+
+const li2 = document.createElement("li")
+const t2 = document.createTextNode("Second item")
+li2.appendChild(t2)
+document.querySelector("#target").appendChild(li2)
+li2.classList.add("my-item")
+
+const li3 = document.createElement("li")
+const t3 = document.createTextNode("Third item")
+li3.appendChild(t3)
+document.querySelector("#target").appendChild(li3)
