@@ -65,7 +65,7 @@ Tehdyt tehtävät:
 - Tehtävä (2): 10p
 - Tehtävä (3): 6p
 
-**Yhteensä 20p p**
+**Yhteensä 20 p**
 
 ### JS-moduuli 5
 
