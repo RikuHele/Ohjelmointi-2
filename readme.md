@@ -69,10 +69,16 @@ Tehdyt tehtävät:
 
 ### JS-moduuli 5
 
-[Linkki JS-moduulin 5 kansiooni github.io palvelussa] (linkki)
+Linkki JS-moduulin 5 kansiooni githubissa: https://github.com/RikuHele/Ohjelmointi-2/tree/main/js-5
 
 Tehdyt tehtävät:
 
-**Yhteensä - p**
+- Tehtävä (1): 2p
+- Tehtävä (2): 3p
+- Tehtävä (3): 7p
+- Tehtävä (4): 2p
+- Tehtävä (5): 2p
+
+**Yhteensä 16 p**
 
 
