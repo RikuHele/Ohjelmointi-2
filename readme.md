@@ -47,7 +47,7 @@ Tehdyt tehtävät:
 - Tehtävä (1): 2p
 - Tehtävä (2): 2p
 - Tehtävä (3): 2p
-- Tehtävä (4): 2p
+- Tehtävä (4): 2p 
 - Tehtävä (5): 5p
 - Tehtävä (6): 1p
 - Tehtävä (7): 2p
@@ -57,11 +57,15 @@ Tehdyt tehtävät:
 
 ### Python Flask -palvelin
 
-[Linkki Python Flask -palvelin kansiooni github.io palvelussa] (linkki)
+Linkki Python Flask -palvelin kansiooni githubissa: https://github.com/RikuHele/Ohjelmointi-2/tree/main/flask
 
 Tehdyt tehtävät:
 
-**Yhteensä - p**
+- Tehtävä (1): 4p
+- Tehtävä (2): 10p
+- Tehtävä (3): 6p
+
+**Yhteensä 20p p**
 
 ### JS-moduuli 5
 
